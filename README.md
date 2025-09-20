@@ -1,4 +1,4 @@
-#  MyShell Python (Kivy) - prototype
+#  noobloxstudiosOS
 Conteúdo gerado: 2025-09-18T22:55:40.235156 UTC
 Arquivos principais gerados:
 ⦁	main.py          : aplicativo Kivy que apresenta a avaliação e verifica respostas
